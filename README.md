@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @pogarla23
 - 👀 I’m interested in Frontend, Machine/Deep Learning, Computer Vision
 - 🌱 I’m currently learning Next.js, Three.js, Pytorch, TensorFlow, Keras, SQL
-- 💞️ I’m looking to collaborate on Anything!! 
+- 💞️ I’m looking to collaborate on (Anything)!! 
 - 📫 How to reach me Email/LinkedIn 
 - 😄 Pronouns: she/her
 
