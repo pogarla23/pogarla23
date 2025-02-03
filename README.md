@@ -1,9 +1,7 @@
 ### About Me
 
 - 👋 Hi, I’m Pooja 🐯💨
-- 👀 I’m interested in Frontend, Machine/Deep Learning, Computer Vision
-- 🌱 I’m currently learning Next.js, Three.js, Pytorch, TensorFlow, Keras
-- 💞️ I’m looking to collaborate on (Anything)!! 
+- 👀 I’m interested in Computer Vision, Anything ML/Deep Learning Related, Frontend
 - 😄 Pronouns: she/her
 
 <!---
