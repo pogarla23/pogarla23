@@ -1,9 +1,8 @@
 ### About Me
 
-- 👋 Hey I’m Pooja 🐯💨
+-  Hey I’m Pooja 🐯💨
 - 👀 I’m interested in Computer Vision + Deep Learning Applications, Frontend for fun 
-- 😄 Pronouns: she/her
-- 🥀 ploop
+-  Pronouns: she/her
 
 <!---
 pogarla23/pogarla23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
