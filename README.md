@@ -1,6 +1,6 @@
 ### About Me
 
--  Hey I’m Pooja 🐯💨
+- I’m Pooja 🐯💨
 - 👀 I’m interested in Computer Vision + Deep Learning Applications, Frontend for fun 
 -  Pronouns: she/her
 
